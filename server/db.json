@@ -1,0 +1,45 @@
+{
+  "flashcards": [
+    {
+      "id": 1,
+      "question": "What is the capital of Sweden?",
+      "answer": "Stockholm"
+    },
+    {
+      "id": 2,
+      "question": "What is the capital of Norway?",
+      "answer": "Oslo"
+    },
+    {
+    "id": 3,
+    "question": "What is the capital of Denmark?",
+    "answer": "Copenhagen"
+    },
+    {
+      "id": 4,
+      "question": "What are the Datatypes in JavaScript Programming?",
+      "answer": "Strings, Numbers, Booleans, Null, Undefined, Big Int, Symbols, Objects"
+    },
+    {
+      "id": 5,
+      "question": "A popular hot beverage in Scandinavia",
+      "answer": "Coffee"
+    },
+    {
+      "id": 6,
+      "question": "'Hello' in Chinese",
+      "answer": "你好",
+      "subtitle": "Nǐ hǎo"
+    },
+    {
+      "id": 7,
+      "question": "What's the main ingredient in Ceviche?",
+      "answer": "Fish"
+    },
+    {
+      "id": 8,
+      "question": "How far is it to the Moon?",
+      "answer": "383775 km"
+    }
+  ]
+}
