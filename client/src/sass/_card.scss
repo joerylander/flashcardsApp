@@ -29,6 +29,7 @@
   &__question {
     font-size: $font-size-medium;
     font-weight: 600;
+    text-align: center;
   }
   &__back {
     transform: rotateY(-180deg);
@@ -37,6 +38,7 @@
   }
   &__answer {
     font-size: $font-size-medium;
+    text-align: center;
   }
 
   &__subtitle {
